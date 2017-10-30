@@ -39,7 +39,7 @@ li{
     padding-top: 30px;
 }
 .fondo1{
-    height: 80vh;
+    height: 90vh;
     background-color: #18bc9c;
     top: 115px;
     position: absolute;
@@ -52,7 +52,7 @@ li{
 }
 .profile{
     text-align: center;
-  margin: 50px;
+    margin-top: 20px;
 }
 .butom4{
     font-size: 70px;
@@ -64,6 +64,7 @@ li{
     font-size: 30px;
     color: #fff;
     text-align: center;
+    margin-top: 50px;
 }
 .fondo2{ 
     height: 120vh;
@@ -234,4 +235,30 @@ i{
 
     top :30px;
     
+}
+
+.shadow:hover{
+    color:#18bc9c;
+}
+.fa {
+    text-align: center;
+    color: #fff;
+  font-size: 60px;
+   position: relative;
+    bottom: 30px;
+    left: 260px;
+    
+}
+
+hr{
+    background-color: #fff;
+    width: 120px;
+    float: left;
+    height: 10px;
+    top: 15px;
+border-style: none;
+position: relative;
+margin: 40px;
+left: 500px;
+border-radius: 5px;
 }
